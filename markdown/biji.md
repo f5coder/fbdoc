@@ -122,13 +122,13 @@ Whit is this?This is a *BiMoYun.com&reg;*.
 让我们到[百度] [baidulink]去吧!.
 ###图片
 ####行内式
-    ![Alt text](/path/to/img.jpg "优质图片")  
-![示例图片](/path/to/img.jpg "优质图片")
+    ![Alt text](http://www.baidu.com/img/baidu_jgylogo3.gif "优质图片")  
+![示例图片](http://www.baidu.com/img/baidu_jgylogo3.gif "优质图片")
 ####参考式
     ![图片不存在][imgSampleLink]
-    [imgSampleLink]: url/to/image  "优质图片"
+    [imgSampleLink]: http://www.baidu.com/img/baidu_jgylogo3.gif  "优质图片"
 ![示例图片][imgSampleLink]
-[imgSampleLink]: url/to/image  "优质图片"
+[imgSampleLink]: http://www.baidu.com/img/baidu_jgylogo3.gif  "优质图片"
 
 ###段内代码
     让我们使用`$.ajax()`吧。  
